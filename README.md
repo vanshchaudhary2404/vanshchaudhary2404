@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br>Hi there! I'm a passionate C++ Developer with having  experience in HTML, CSS, and JavaScript. I enjoy solving complex problems, writing efficient code, and building creative web pages.<br><br>💻 Languages & Skills:<br><br>Language :  C++<br>Web Technologies :  HTML, CSS, JavaScript<br>🚀  What I Love :<br>Writing clean and optimized code.<br>Exploring new technologies and best practices.<br>Building efficient and scalable websites<br><br>📫 Let's Connect!<br>Feel free to check out my repositories and collaborate!
+Hi there! I'm a passionate C++ Developer with having  experience in HTML, CSS, and JavaScript. I enjoy solving complex problems, writing efficient code, and building creative web pages.<br><br><br>💻 Languages & Skills:<br><br>Language :  C++<br>Web Technologies :  HTML, CSS, JavaScript<br>🚀  What I Love :<br>Writing clean and optimized code.<br>Exploring new technologies and best practices.<br>Building efficient and scalable websites<br><br>📫 Let's Connect!<br>Feel free to check out my repositories and collaborate!
 
 
 ## 🌐 Socials:
