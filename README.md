@@ -3,10 +3,9 @@ Hi there! I'm a passionate C++ Developer with having  experience in HTML, CSS, a
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vanshkumar024/)
-[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail)](mailto:vanshtech7217@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshkumar024/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshtech7217@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/vansh024/)
-
 
 
 # 💻 Tech Stack:
