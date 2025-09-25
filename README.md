@@ -1,7 +1,7 @@
 # 💫 Hi there , I'm Vansh👋
-I'm a passionate C++ Developer with having  experience in HTML, CSS, JavaScript ,NodeJs , ExpressJs , MongoDB . I enjoy solving complex problems, writing efficient code, and building creative web pages.<br><br><br>💻 Languages & Skills:<br><br>Language :  C++<br>Web Technologies :  HTML, CSS, JavaScript, NodeJs , Express , MongoDB.<br>🚀  What I Love :<br>Writing clean and optimized code.<br>Exploring new technologies and best practices.<br>Building efficient and scalable websites<br><br>📫 Let's Connect!<br>Feel free to check out my repositories and collaborate!
+I'm a passionate C++ Developer with having  experience in HTML, CSS, JavaScript ,NodeJs , ExpressJs , MongoDB . I enjoy solving complex problems, writing efficient code, and building creative web pages.<br><br>💻 Languages & Skills:<br>Language :  C++ , C , Python.<br>Web Technologies :  HTML, CSS, JavaScript, NodeJs , Express , MongoDB.<br>🚀  What I Love :<br>Writing clean and optimized code.<br>Exploring new technologies and best practices.<br>Building efficient and scalable websites<br><br>📫 Let's Connect!<br>Feel free to check out my repositories and collaborate!
 
-## 🌐 Coonect with me:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshkumar024/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshtech7217@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/vansh024/)
