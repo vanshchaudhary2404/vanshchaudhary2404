@@ -1,7 +1,9 @@
-##👋 Hi there, I'm Vansh 💫<br><br>
-I'm a passionate C++ and MERN Stack Developer who loves solving complex problems, building scalable systems, and creating products that actually make an impact.<br>
-💻 Languages & Skills:<br>I work across Language :C++, DSA, python.<br>Web Technologies: Full-Stack Development ( React JS , Node Js , Express , MongoDB, SQL, Javascript).<br>
-I'm always exploring new technologies, improving system design, and pushing my limits through real-world projects and hackathons.
+# 💫 Hi there , I'm Vansh👋 br><br>
+»»I'm a passionate C++ and MERN Stack Developer who loves solving complex problems, building scalable systems, and creating products that actually make an impact.<br>
+
+💻 Languages & Skills:<br>»» I work across Language : C++, DSA, python.<br>»» Web Technologies: Full-Stack Development ( React JS , Node Js , Express , MongoDB, SQL, Javascript).<br>
+»»📫 Email: vanshkumar.official24@gmail.com
+»»⚡ Fun fact: I'm always exploring new technologies, improving system design, and pushing my limits through real-world projects and hackathons 🤖❤️
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vanshkumar024/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Vanshk2407?s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshkumar.official24@gmail.com) [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/vansh024/)
@@ -11,11 +13,11 @@ I'm always exploring new technologies, improving system design, and pushing my l
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vanshchaudhary2404&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vanshchaudhary2404&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchaudhary2404&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchaudhary2404&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+```
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vanshchaudhary2404&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
-
+```
 ---
 [![](https://visitcount.itsvg.in/api?id=vanshchaudhary2404&icon=3&color=0)](https://visitcount.itsvg.in)
 
