@@ -1,5 +1,7 @@
-#👋 Hi there, I'm Vansh 💫<br><br>
-I'm a passionate C++ and MERN Stack Developer who loves solving complex problems, building scalable systems, and creating products that actually make an impact.<br>I work across C++, DSA, Full-Stack Development, python . I'm always exploring new technologies, improving system design, and pushing my limits through real-world projects and hackathons.
+##👋 Hi there, I'm Vansh 💫<br><br>
+I'm a passionate C++ and MERN Stack Developer who loves solving complex problems, building scalable systems, and creating products that actually make an impact.<br>
+💻 Languages & Skills:<br>I work across Language :C++, DSA, python.<br>Web Technologies: Full-Stack Development ( React JS , Node Js , Express , MongoDB, SQL, Javascript).<br>
+I'm always exploring new technologies, improving system design, and pushing my limits through real-world projects and hackathons.
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vanshkumar024/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Vanshk2407?s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshkumar.official24@gmail.com) [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/vansh024/)
