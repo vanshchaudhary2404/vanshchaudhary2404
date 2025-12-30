@@ -1,7 +1,7 @@
 # 💫 Hi there , I'm Vansh👋 <br><br>
 »» I'm a passionate C++ and MERN Stack Developer who loves solving complex problems, building scalable systems, and creating products that actually make an impact.<br>
 
-💻 Languages & Skills:<br>»» I work across Language : C++, DSA, python.<br>»» Web Technologies: Full-Stack Development ( React JS ,       Node Js , Express , MongoDB, SQL, Javascript).<br>
+💻 Languages & Skills:<br>»» I work across Language : C++, JavaScript & python.<br>»» Web Technologies: Full-Stack Development ( React JS ,       Node Js , Express , MongoDB, SQL, Javascript).<br>
 »»📫 Email: vanshkumar.official24@gmail.com <br> <br>
 »»⚡ Fun fact: I'm always exploring new technologies, improving system design, and pushing my limits through real-world projects and hackathons 🤖❤️
 
