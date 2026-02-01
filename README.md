@@ -1,4 +1,7 @@
-# 💫 Hi there , I'm Vansh👋 <br><br>
+<div align="center">
+# 👋 Hi there, I'm Vansh 👋
+</div>
+<!-- # 💫 Hi there , I'm Vansh👋 <br><br> -->
 »» I'm a passionate C++ and MERN Stack Developer who loves solving complex problems, building scalable systems, and creating products that actually make an impact.<br>
 
 💻 Languages & Skills:<br>»» I work across Language : C++, JavaScript & python.<br>»» Web Technologies: Full-Stack Development ( React JS ,       Node Js , Express , MongoDB, SQL, Javascript).<br>
