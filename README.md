@@ -23,8 +23,6 @@
 ⚡ I enjoy building innovative projects, participating in hackathons, and exploring new technologies.
 </p>
 
----
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
@@ -55,11 +53,14 @@
 <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,mysql,firebase,tailwind,tensorflow,vercel" />
 </p>
 
-<!-- ---
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
 
+  <a href="https://github.com/vanshchaudhary2404/HealthID">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanshchaudhary2404&repo=HealthID&theme=tokyonight"/>
+</a>
+  
 <a href="https://github.com/vanshchaudhary2404/Nexus-AI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanshchaudhary2404&repo=Nexus-AI&theme=tokyonight"/>
 </a>
@@ -68,30 +69,30 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanshchaudhary2404&repo=WanderLust&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/vanshchaudhary2404/HealthID">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanshchaudhary2404&repo=HealthID&theme=tokyonight"/>
-</a>
-
-</p> -->
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vanshchaudhary2404&show_icons=true&theme=tokyonight"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshchaudhary2404&theme=tokyonight"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchaudhary2404&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
+<h2 align="center">📊 GitHub Stats</h2>
+
+<table align="center">
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=vanshchaudhary2404&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchaudhary2404&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=vanshchaudhary2404&theme=tokyonight&hide_border=true"/>
+</p>
 
 <h2 align="center">🏆 Top Contributions</h2>
 
@@ -101,21 +102,14 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center"> Contribution Snake </h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+<!-- Profile View -->
 <!-- <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p> -->
-
----
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=vanshchaudhary2404&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
+</p> -->
 ---
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F72E,100:00A3FF&height=120&section=footer"/>
