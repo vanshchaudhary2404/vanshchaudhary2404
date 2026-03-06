@@ -5,7 +5,6 @@
 </p>
 
 ---
-
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
@@ -53,7 +52,7 @@
 <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,mysql,firebase,tailwind,tensorflow,vercel" />
 </p>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<!--<h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
 
@@ -70,36 +69,23 @@
 </a>
 
 </p>
+-->
 
 ---
 <h2 align="center">📊 GitHub Stats</h2>
 
-<table align="center">
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=vanshchaudhary2404&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchaudhary2404&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=vanshchaudhary2404&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshchaudhary2404&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchaudhary2404&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<h2 align="center">🏆 Top Contributions</h2>
-
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=vanshchaudhary2404&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+  <img src="https://streak-stats.demolab.com?user=vanshchaudhary2404&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
+<!-- <h2 align="center">🏆 Top Contributions</h2> -->
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=vanshchaudhary2404&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
 ---
 
 <h2 align="center"> Contribution Snake </h2>
