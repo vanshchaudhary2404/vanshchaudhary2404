@@ -1,30 +1,121 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Vansh</h1>
 
-# 👋 Hi there, I'm Vansh 👋
-
-</div>
-
-<!-- # 💫 Hi there , I'm Vansh👋 <br><br> -->
-»» I'm a passionate C++ and MERN Stack Developer who loves solving complex problems, building scalable systems, and creating products that actually make an impact.<br>
-
-💻 Languages & Skills:<br>»» I work across Language : C++, JavaScript & python.<br>»» Web Technologies: Full-Stack Development ( React JS ,       Node Js , Express , MongoDB, SQL, Javascript).<br>
-»»📫 Email: vanshkumar.official24@gmail.com <br> <br>
-»»⚡ Fun fact: I'm always exploring new technologies, improving system design, and pushing my limits through real-world projects and hackathons 🤖❤️
-
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vanshkumar024/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Vanshk2407?s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshkumar.official24@gmail.com) [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/vansh024/)
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vanshchaudhary2404&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vanshchaudhary2404&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchaudhary2404&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vanshchaudhary2404&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=3EA1F7&center=true&vCenter=true&width=650&lines=C%2B%2B+Developer;MERN+Stack+Developer;AI+%26+System+Design+Enthusiast;Building+Real+World+Projects" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vanshchaudhary2404&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+🤖 Passionate <b>C++ & MERN Stack Developer</b> focused on solving complex problems and building scalable real-world applications.
+</p>
+
+<p align="center">
+🔹 <b>Languages:</b> C++, JavaScript, Python <br>
+🔹 <b>Web:</b> React.js, Node.js, Express.js <br>
+🔹 <b>Databases:</b> MongoDB, MySQL <br>
+🔹 <b>Interests:</b> System Design • Full-Stack Development • Artificial Intelligence
+</p>
+
+<p align="center">
+⚡ I enjoy building innovative projects, participating in hackathons, and exploring new technologies.
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vanshkumar024/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
+
+<a href="https://x.com/Vanshk2407">
+<img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white&style=for-the-badge"/>
+</a>
+
+<a href="mailto:vanshkumar.official24@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+</a>
+
+<a href="https://leetcode.com/vansh024/">
+<img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white&style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,mysql,firebase,tailwind,tensorflow,vercel" />
+</p>
+
+<!-- ---
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+
+<a href="https://github.com/vanshchaudhary2404/Nexus-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanshchaudhary2404&repo=Nexus-AI&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/vanshchaudhary2404/WanderLust">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanshchaudhary2404&repo=WanderLust&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/vanshchaudhary2404/HealthID">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanshchaudhary2404&repo=HealthID&theme=tokyonight"/>
+</a>
+
+</p> -->
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vanshchaudhary2404&show_icons=true&theme=tokyonight"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshchaudhary2404&theme=tokyonight"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchaudhary2404&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+<h2 align="center">🏆 Top Contributions</h2>
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=vanshchaudhary2404&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+<!-- <p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p> -->
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vanshchaudhary2404&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F72E,100:00A3FF&height=120&section=footer"/>
