@@ -81,13 +81,14 @@
 <tr>
 <td>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vanshchaudhary2404&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vanshchaudhary2404&show_icons=true&theme=tokyonight&hide_border=true"/> -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vanshchaudhary2404&show_icons=true&theme=tokyonight&hide_border=true"/>
 </td>
 
 <td>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vanshchaudhary2404&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vanshchaudhary2404&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/> -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vanshchaudhary2404&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </td>
 </tr>
