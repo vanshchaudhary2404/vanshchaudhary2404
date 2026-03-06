@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-<b>● Languages:</b> C++, JavaScript, Python <br>
-<b>● Web Technology:</b> React.js, Node.js, Express.js <br>
-<b>● Databases:</b> MongoDB, MySQL <br>
-<b>● Interests:</b> System Design • Full-Stack Development • Artificial Intelligence
+<b>🔹 Languages:</b> C++, JavaScript, Python <br>
+<b>🔹 Web Technology:</b> React.js, Node.js, Express.js <br>
+<b>🔹 Databases:</b> MongoDB, MySQL <br>
+<b>🔹 Interests:</b> System Design • Full-Stack Development • Artificial Intelligence
 </p>
 
 <p align="center">
@@ -78,8 +78,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vanshchaudhary2404&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=vanshchaudhary2404&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchaudhary2404&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
@@ -92,7 +91,9 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshchaudhary2404&theme=tokyo-night&hide_border=true"/>
 </p>
+
 ---
+
 <!-- ================= CONTRIBUTION SNAKES ================= -->
 <h2 align="center"> Contribution Snake </h2>
 
