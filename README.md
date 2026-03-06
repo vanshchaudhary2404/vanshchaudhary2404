@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-🔹 <b>Languages:</b> C++, JavaScript, Python <br>
-🔹 <b>Web:</b> React.js, Node.js, Express.js <br>
-🔹 <b>Databases:</b> MongoDB, MySQL <br>
-🔹 <b>Interests:</b> System Design • Full-Stack Development • Artificial Intelligence
+<b>● Languages:</b> C++, JavaScript, Python <br>
+<b>● Web Technology:</b> React.js, Node.js, Express.js <br>
+<b>● Databases:</b> MongoDB, MySQL <br>
+<b>● Interests:</b> System Design • Full-Stack Development • Artificial Intelligence
 </p>
 
 <p align="center">
@@ -72,6 +72,7 @@
 -->
 
 ---
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -86,6 +87,7 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=vanshchaudhary2404&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
+
 ---
 
 <h2 align="center"> Contribution Snake </h2>
