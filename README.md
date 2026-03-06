@@ -11,7 +11,7 @@
 🤖 Passionate <b>C++ & MERN Stack Developer</b> focused on solving complex problems and building scalable real-world applications.
 </p>
 
-<p align="center">
+<p align="left">
 <b>● Languages:</b> C++, JavaScript, Python <br>
 <b>● Web Technology:</b> React.js, Node.js, Express.js <br>
 <b>● Databases:</b> MongoDB, MySQL <br>
