@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Vansh</h1>
-
+<!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=3EA1F7&center=true&vCenter=true&width=650&lines=C%2B%2B+Developer;MERN+Stack+Developer;AI+%26+System+Design+Enthusiast;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=3EA1F7&center=true&vCenter=true&width=650&lines=C%2B%2B+Developer;MERN+Stack+Developer;AI+%26+System+Design+Enthusiast;Building+Real+World+Projects" />
 </p>
 
 ---
+<!-- ================= ABOUT SECTION ================= -->
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
 🤖 Passionate <b>C++ & MERN Stack Developer</b> focused on solving complex problems and building scalable real-world applications.
 </p>
 
-<p align="left">
+<p align="center">
 <b>● Languages:</b> C++, JavaScript, Python <br>
 <b>● Web Technology:</b> React.js, Node.js, Express.js <br>
 <b>● Databases:</b> MongoDB, MySQL <br>
@@ -22,6 +23,7 @@
 ⚡ I enjoy building innovative projects, participating in hackathons, and exploring new technologies.
 </p>
 
+<!-- ================= SOCIAL LINKS  ================= -->
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
@@ -45,7 +47,7 @@
 </p>
 
 ---
-
+<!-- ================= TECH STACKS ================= -->
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
@@ -72,24 +74,26 @@
 -->
 
 ---
-
+<!-- ================= GITHUB STATS ================= -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshchaudhary2404&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchaudhary2404&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vanshchaudhary2404&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchaudhary2404&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vanshchaudhary2404&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-<!-- <h2 align="center">🏆 Top Contributions</h2> -->
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vanshchaudhary2404&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<img src="https://streak-stats.demolab.com?user=vanshchaudhary2404&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshchaudhary2404&theme=tokyo-night&hide_border=true"/>
+</p>
 ---
-
+<!-- ================= CONTRIBUTION SNAKES ================= -->
 <h2 align="center"> Contribution Snake </h2>
 
 <p align="center">
@@ -99,5 +103,5 @@
 <!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=vanshchaudhary2404&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p> -->
----
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F72E,100:00A3FF&height=120&section=footer"/>
