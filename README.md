@@ -104,10 +104,18 @@
 
 
 
-<h2 align="center">📈 Contribution Activity</h2>
+<!-- <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshchaudhary2404&theme=tokyo-night&hide_border=true"/>
+</p> -->
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vanshchaudhary2404&theme=tokyo-night&hide_border=true"
+    width="75%"
+  />
 </p>
 
 ---
