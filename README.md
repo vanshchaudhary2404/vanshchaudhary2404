@@ -82,20 +82,20 @@
 <td>
 
 <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vanshchaudhary2404&show_icons=true&theme=tokyonight&hide_border=true"/> -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vanshchaudhary240&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vanshchaudhary2404&show_icons=true&theme=tokyonight&hide_border=true"/>
 </td>
 
 <td>
 
 <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vanshchaudhary2404&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/> -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vanshchaudhary240&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vanshchaudhary2404&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-<img width="60%" src="https://streak-stats.demolab.com?user=vanshchaudhary240&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=vanshchaudhary2404&theme=tokyonight&hide_border=true"/>
 </p>
 
 <h2 align="center">📈 Contribution Activity</h2>
