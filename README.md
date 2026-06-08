@@ -79,9 +79,6 @@
 
 <table align="center">
 
-
-# 📊 GitHub Stats
-
 <tr>
 <td>
 
