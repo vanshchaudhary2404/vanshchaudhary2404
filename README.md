@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vansh</h1>
 <!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=3EA1F7&center=true&vCenter=true&width=650&lines=C%2B%2B+Developer;MERN+Stack+Developer;AI+%26+System+Design+Enthusiast;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=400&color=3EA1F7&center=true&vCenter=true&width=650&lines=C%2B%2B+Developer;MERN+Stack+Developer;AI+%26+System+Design+Enthusiast;Building+Real+World+Projects" />
 </p>
 
 ---
