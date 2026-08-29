@@ -117,12 +117,14 @@
 
 ---
 
-<!-- ================= CONTRIBUTION SNAKES ================= -->
+<!-- ================= CONTRIBUTION SNAKES ================= 
 <h2 align="center"> Contribution Snake </h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+</p> -->
+
+
 <!-- Profile View -->
 <!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=vanshchaudhary2404&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
